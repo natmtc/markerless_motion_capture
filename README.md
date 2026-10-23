@@ -5,7 +5,6 @@ A multi-camera markerless motion capture system designed to record hand movement
 
 The system combines synchronized camera acquisition, automated hand tracking, and 3D reconstruction to enable quantitative analysis of hand movements without physical markers.
 
-![Motion Capture Setup](images/setup.jpg)
 
 ## Overview
 
